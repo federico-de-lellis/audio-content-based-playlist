@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.cache/
+.streamlit/
+*.log
+
+# MusAV dataset
+MusAV/
+audio/
+
+# Models
+models/
+
+# Metadata
+metadata/
+
+# Analysis smoke
+analysis_smoke/
+
+# Reports
+reports/final_report.md

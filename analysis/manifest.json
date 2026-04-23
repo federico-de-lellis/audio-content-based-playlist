@@ -1,0 +1,17 @@
+{
+  "analysis_version": 1,
+  "audio_root": "MusAV/audio_chunks",
+  "models_dir": "models",
+  "device": "cpu",
+  "clap_amodel": "HTSAT-base",
+  "track_count": 2100,
+  "created_at_utc": "2026-04-18T15:36:55.088562+00:00",
+  "style_label_count": 400,
+  "artifacts": {
+    "track_index": "track_index.parquet",
+    "tracks": "tracks.parquet",
+    "styles": "style_activations.parquet",
+    "discogs_embeddings": "discogs_embeddings.npy",
+    "clap_audio_embeddings": "clap_audio_embeddings.npy"
+  }
+}

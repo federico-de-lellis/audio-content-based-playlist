@@ -1,0 +1,10 @@
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+streamlit
+tqdm
+torch
+laion-clap
+essentia-tensorflow
